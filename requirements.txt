@@ -1,0 +1,14 @@
+torch>=2.0.0
+torchvision
+diffusers>=0.20.0
+accelerate
+transformers
+numpy
+pandas
+h5py
+matplotlib
+scikit-image
+scipy
+gradio
+tqdm
+glob2
