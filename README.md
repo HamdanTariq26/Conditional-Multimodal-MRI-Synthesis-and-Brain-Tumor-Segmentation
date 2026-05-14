@@ -65,7 +65,7 @@ pip install -r requirements.txt
 | **Tumor Core** | 0.76 |
 | **Enhancing Tumor** | 0.86 |
 
-*(Insert your `brats_final_sharp.png` here)*
+![Results](brats_final_sharp.png)
 
 ---
 
