@@ -80,5 +80,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **National University of Sciences and Technology (NUST)**
 *Semester — Department of Computer Science*
 
+---
 **Note**
 *Pretrained model files are available in the GitHub Releases section due to GitHub file size limitations.*
