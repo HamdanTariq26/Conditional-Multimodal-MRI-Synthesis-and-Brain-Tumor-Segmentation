@@ -65,7 +65,7 @@ pip install -r requirements.txt
 | **Tumor Core** | 0.76 |
 | **Enhancing Tumor** | 0.86 |
 
-![Results](brats_final_sharp.png)
+![Results](images/Sample-brain-tumor-segmentation.png)
 
 ---
 
