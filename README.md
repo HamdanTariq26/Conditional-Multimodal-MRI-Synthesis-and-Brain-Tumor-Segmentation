@@ -67,6 +67,9 @@ pip install -r requirements.txt
 
 ![Results](images/Sample-brain-tumor-segmentation.png)
 
+### Conditional Multimodal MRI Synthesis
+![Results](images/Sample-mri-generation.png)
+
 ---
 
 ## 👥 Authors
