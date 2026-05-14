@@ -70,7 +70,7 @@ pip install -r requirements.txt
 ---
 
 ## 👥 Authors
-*   **Hamdan Tariq** - [GitHub](https://github.com/HamdanTariq26)
+*   **Hamdan Tariq - Team lead** - [@HamdanTariq26](https://github.com/HamdanTariq26)
 *   **Mubashara Anees**
 
 ## 📄 License
