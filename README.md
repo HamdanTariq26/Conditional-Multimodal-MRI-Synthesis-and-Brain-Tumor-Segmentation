@@ -1,0 +1,2 @@
+# Conditional-Multimodal-MRI-Synthesis-and-Brain-Tumor-Segmentation
+Developed a dual-model system featuring a ResNet U-Net for multi-class brain tumor segmentation and a Conditional Diffusion Model (DDPM) for synthesizing 4-modality MRI from masks. Trained on TPU v3-8 with CPU-EMA and v-prediction, the pipeline enables high-fidelity medical imaging analysis and privacy-safe synthetic data generation for medical AI.
