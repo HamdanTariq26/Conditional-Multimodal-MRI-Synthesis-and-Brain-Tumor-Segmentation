@@ -54,12 +54,6 @@ cd brats-mri-diffusion
 pip install -r requirements.txt
 ```
 
-### Run Inference
-To generate clinical comparison plots:
-```bash
-python brats_inference_report_v8_fixed.py
-```
-
 ---
 
 ## 🖼️ Results
