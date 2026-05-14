@@ -49,8 +49,8 @@ Trained and validated on the **Multimodal Brain Tumor Segmentation Challenge 202
 
 ### Setup
 ```bash
-[git clone https://github.com/[Remaining]/brats-mri-diffusion.git](https://github.com/HamdanTariq26/Conditional-Multimodal-MRI-Synthesis-and-Brain-Tumor-Segmentation.git)
-cd brats-mri-diffusion
+git clone https://github.com/HamdanTariq26/Conditional-Multimodal-MRI-Synthesis-and-Brain-Tumor-Segmentation.git
+cd Conditional-Multimodal-MRI-Synthesis-and-Brain-Tumor-Segmentation
 pip install -r requirements.txt
 ```
 
